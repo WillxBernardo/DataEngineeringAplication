@@ -1,0 +1,3 @@
+kagglehub[pandas-datasets]==0.3.13
+apache-airflow-providers-postgres==5.9.0
+psycopg2-binary
